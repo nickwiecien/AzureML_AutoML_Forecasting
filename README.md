@@ -20,7 +20,11 @@ As part of a quickstart we have included a separate environment setup notebook `
 
 To run the code included in this repo you must have access to an [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) workspace. Details on provisioning an AML workspace can be found [here](https://docs.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources).
 
-We recommend running the notebooks contained in this repo from an Azure ML Compute instance. You can provision a new Compute Instance by following the guide below - we recommend selecting a `Standard_DS3_v2` SKU VM for this task.
+## Getting Started
+
+We recommend running the notebooks contained in this repo from an Azure ML Compute instance (these are standalone VMs designed to be used for ML development). You can provision a new Compute Instance by following the guide below - we recommend selecting a `Standard_DS3_v2` SKU VM for this task.
+
+[Create and Manage an Azure Machine Learning Compute Instance](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-manage-compute-instance)
 
 Once your compute instance is provisioned, launch the terminal and execute the following commands:
 
