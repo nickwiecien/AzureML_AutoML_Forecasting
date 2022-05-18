@@ -1,4 +1,4 @@
-# AzureML AutoML Forecasting Pipeline Sample
+# Azure Machine Learning - AutoML Forecasting Pipeline Sample
 
 ![Background](img/01.png?raw=true "Background")
 
